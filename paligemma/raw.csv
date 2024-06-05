@@ -1,0 +1,241 @@
+,game,model,experiment,episode,metric,value
+0,matchit,paligemma-3b-mix-448-t0.0--paligemma-3b-mix-448-t0.0,1_similar_image,episode_4,Violated Request Count,1.0
+1,matchit,paligemma-3b-mix-448-t0.0--paligemma-3b-mix-448-t0.0,1_similar_image,episode_4,Parsed Request Count,0.0
+2,matchit,paligemma-3b-mix-448-t0.0--paligemma-3b-mix-448-t0.0,1_similar_image,episode_4,Request Count,1.0
+3,matchit,paligemma-3b-mix-448-t0.0--paligemma-3b-mix-448-t0.0,1_similar_image,episode_4,Aborted,1.0
+4,matchit,paligemma-3b-mix-448-t0.0--paligemma-3b-mix-448-t0.0,1_similar_image,episode_4,Success,0.0
+5,matchit,paligemma-3b-mix-448-t0.0--paligemma-3b-mix-448-t0.0,1_similar_image,episode_4,Lose,0.0
+6,matchit,paligemma-3b-mix-448-t0.0--paligemma-3b-mix-448-t0.0,1_similar_image,episode_4,Main Score,
+7,matchit,paligemma-3b-mix-448-t0.0--paligemma-3b-mix-448-t0.0,1_similar_image,episode_3,Violated Request Count,1.0
+8,matchit,paligemma-3b-mix-448-t0.0--paligemma-3b-mix-448-t0.0,1_similar_image,episode_3,Parsed Request Count,0.0
+9,matchit,paligemma-3b-mix-448-t0.0--paligemma-3b-mix-448-t0.0,1_similar_image,episode_3,Request Count,1.0
+10,matchit,paligemma-3b-mix-448-t0.0--paligemma-3b-mix-448-t0.0,1_similar_image,episode_3,Aborted,1.0
+11,matchit,paligemma-3b-mix-448-t0.0--paligemma-3b-mix-448-t0.0,1_similar_image,episode_3,Success,0.0
+12,matchit,paligemma-3b-mix-448-t0.0--paligemma-3b-mix-448-t0.0,1_similar_image,episode_3,Lose,0.0
+13,matchit,paligemma-3b-mix-448-t0.0--paligemma-3b-mix-448-t0.0,1_similar_image,episode_3,Main Score,
+14,matchit,paligemma-3b-mix-448-t0.0--paligemma-3b-mix-448-t0.0,1_similar_image,episode_8,Violated Request Count,1.0
+15,matchit,paligemma-3b-mix-448-t0.0--paligemma-3b-mix-448-t0.0,1_similar_image,episode_8,Parsed Request Count,0.0
+16,matchit,paligemma-3b-mix-448-t0.0--paligemma-3b-mix-448-t0.0,1_similar_image,episode_8,Request Count,1.0
+17,matchit,paligemma-3b-mix-448-t0.0--paligemma-3b-mix-448-t0.0,1_similar_image,episode_8,Aborted,1.0
+18,matchit,paligemma-3b-mix-448-t0.0--paligemma-3b-mix-448-t0.0,1_similar_image,episode_8,Success,0.0
+19,matchit,paligemma-3b-mix-448-t0.0--paligemma-3b-mix-448-t0.0,1_similar_image,episode_8,Lose,0.0
+20,matchit,paligemma-3b-mix-448-t0.0--paligemma-3b-mix-448-t0.0,1_similar_image,episode_8,Main Score,
+21,matchit,paligemma-3b-mix-448-t0.0--paligemma-3b-mix-448-t0.0,1_similar_image,episode_2,Violated Request Count,1.0
+22,matchit,paligemma-3b-mix-448-t0.0--paligemma-3b-mix-448-t0.0,1_similar_image,episode_2,Parsed Request Count,0.0
+23,matchit,paligemma-3b-mix-448-t0.0--paligemma-3b-mix-448-t0.0,1_similar_image,episode_2,Request Count,1.0
+24,matchit,paligemma-3b-mix-448-t0.0--paligemma-3b-mix-448-t0.0,1_similar_image,episode_2,Aborted,1.0
+25,matchit,paligemma-3b-mix-448-t0.0--paligemma-3b-mix-448-t0.0,1_similar_image,episode_2,Success,0.0
+26,matchit,paligemma-3b-mix-448-t0.0--paligemma-3b-mix-448-t0.0,1_similar_image,episode_2,Lose,0.0
+27,matchit,paligemma-3b-mix-448-t0.0--paligemma-3b-mix-448-t0.0,1_similar_image,episode_2,Main Score,
+28,matchit,paligemma-3b-mix-448-t0.0--paligemma-3b-mix-448-t0.0,1_similar_image,episode_5,Violated Request Count,1.0
+29,matchit,paligemma-3b-mix-448-t0.0--paligemma-3b-mix-448-t0.0,1_similar_image,episode_5,Parsed Request Count,0.0
+30,matchit,paligemma-3b-mix-448-t0.0--paligemma-3b-mix-448-t0.0,1_similar_image,episode_5,Request Count,1.0
+31,matchit,paligemma-3b-mix-448-t0.0--paligemma-3b-mix-448-t0.0,1_similar_image,episode_5,Aborted,1.0
+32,matchit,paligemma-3b-mix-448-t0.0--paligemma-3b-mix-448-t0.0,1_similar_image,episode_5,Success,0.0
+33,matchit,paligemma-3b-mix-448-t0.0--paligemma-3b-mix-448-t0.0,1_similar_image,episode_5,Lose,0.0
+34,matchit,paligemma-3b-mix-448-t0.0--paligemma-3b-mix-448-t0.0,1_similar_image,episode_5,Main Score,
+35,matchit,paligemma-3b-mix-448-t0.0--paligemma-3b-mix-448-t0.0,1_similar_image,episode_9,Violated Request Count,1.0
+36,matchit,paligemma-3b-mix-448-t0.0--paligemma-3b-mix-448-t0.0,1_similar_image,episode_9,Parsed Request Count,0.0
+37,matchit,paligemma-3b-mix-448-t0.0--paligemma-3b-mix-448-t0.0,1_similar_image,episode_9,Request Count,1.0
+38,matchit,paligemma-3b-mix-448-t0.0--paligemma-3b-mix-448-t0.0,1_similar_image,episode_9,Aborted,1.0
+39,matchit,paligemma-3b-mix-448-t0.0--paligemma-3b-mix-448-t0.0,1_similar_image,episode_9,Success,0.0
+40,matchit,paligemma-3b-mix-448-t0.0--paligemma-3b-mix-448-t0.0,1_similar_image,episode_9,Lose,0.0
+41,matchit,paligemma-3b-mix-448-t0.0--paligemma-3b-mix-448-t0.0,1_similar_image,episode_9,Main Score,
+42,matchit,paligemma-3b-mix-448-t0.0--paligemma-3b-mix-448-t0.0,1_similar_image,episode_7,Violated Request Count,1.0
+43,matchit,paligemma-3b-mix-448-t0.0--paligemma-3b-mix-448-t0.0,1_similar_image,episode_7,Parsed Request Count,0.0
+44,matchit,paligemma-3b-mix-448-t0.0--paligemma-3b-mix-448-t0.0,1_similar_image,episode_7,Request Count,1.0
+45,matchit,paligemma-3b-mix-448-t0.0--paligemma-3b-mix-448-t0.0,1_similar_image,episode_7,Aborted,1.0
+46,matchit,paligemma-3b-mix-448-t0.0--paligemma-3b-mix-448-t0.0,1_similar_image,episode_7,Success,0.0
+47,matchit,paligemma-3b-mix-448-t0.0--paligemma-3b-mix-448-t0.0,1_similar_image,episode_7,Lose,0.0
+48,matchit,paligemma-3b-mix-448-t0.0--paligemma-3b-mix-448-t0.0,1_similar_image,episode_7,Main Score,
+49,matchit,paligemma-3b-mix-448-t0.0--paligemma-3b-mix-448-t0.0,1_similar_image,episode_1,Violated Request Count,1.0
+50,matchit,paligemma-3b-mix-448-t0.0--paligemma-3b-mix-448-t0.0,1_similar_image,episode_1,Parsed Request Count,0.0
+51,matchit,paligemma-3b-mix-448-t0.0--paligemma-3b-mix-448-t0.0,1_similar_image,episode_1,Request Count,1.0
+52,matchit,paligemma-3b-mix-448-t0.0--paligemma-3b-mix-448-t0.0,1_similar_image,episode_1,Aborted,1.0
+53,matchit,paligemma-3b-mix-448-t0.0--paligemma-3b-mix-448-t0.0,1_similar_image,episode_1,Success,0.0
+54,matchit,paligemma-3b-mix-448-t0.0--paligemma-3b-mix-448-t0.0,1_similar_image,episode_1,Lose,0.0
+55,matchit,paligemma-3b-mix-448-t0.0--paligemma-3b-mix-448-t0.0,1_similar_image,episode_1,Main Score,
+56,matchit,paligemma-3b-mix-448-t0.0--paligemma-3b-mix-448-t0.0,1_similar_image,episode_6,Violated Request Count,1.0
+57,matchit,paligemma-3b-mix-448-t0.0--paligemma-3b-mix-448-t0.0,1_similar_image,episode_6,Parsed Request Count,0.0
+58,matchit,paligemma-3b-mix-448-t0.0--paligemma-3b-mix-448-t0.0,1_similar_image,episode_6,Request Count,1.0
+59,matchit,paligemma-3b-mix-448-t0.0--paligemma-3b-mix-448-t0.0,1_similar_image,episode_6,Aborted,1.0
+60,matchit,paligemma-3b-mix-448-t0.0--paligemma-3b-mix-448-t0.0,1_similar_image,episode_6,Success,0.0
+61,matchit,paligemma-3b-mix-448-t0.0--paligemma-3b-mix-448-t0.0,1_similar_image,episode_6,Lose,0.0
+62,matchit,paligemma-3b-mix-448-t0.0--paligemma-3b-mix-448-t0.0,1_similar_image,episode_6,Main Score,
+63,matchit,paligemma-3b-mix-448-t0.0--paligemma-3b-mix-448-t0.0,1_similar_image,episode_0,Violated Request Count,1.0
+64,matchit,paligemma-3b-mix-448-t0.0--paligemma-3b-mix-448-t0.0,1_similar_image,episode_0,Parsed Request Count,0.0
+65,matchit,paligemma-3b-mix-448-t0.0--paligemma-3b-mix-448-t0.0,1_similar_image,episode_0,Request Count,1.0
+66,matchit,paligemma-3b-mix-448-t0.0--paligemma-3b-mix-448-t0.0,1_similar_image,episode_0,Aborted,1.0
+67,matchit,paligemma-3b-mix-448-t0.0--paligemma-3b-mix-448-t0.0,1_similar_image,episode_0,Success,0.0
+68,matchit,paligemma-3b-mix-448-t0.0--paligemma-3b-mix-448-t0.0,1_similar_image,episode_0,Lose,0.0
+69,matchit,paligemma-3b-mix-448-t0.0--paligemma-3b-mix-448-t0.0,1_similar_image,episode_0,Main Score,
+70,matchit,paligemma-3b-mix-448-t0.0--paligemma-3b-mix-448-t0.0,2_different_image,episode_4,Violated Request Count,1.0
+71,matchit,paligemma-3b-mix-448-t0.0--paligemma-3b-mix-448-t0.0,2_different_image,episode_4,Parsed Request Count,0.0
+72,matchit,paligemma-3b-mix-448-t0.0--paligemma-3b-mix-448-t0.0,2_different_image,episode_4,Request Count,1.0
+73,matchit,paligemma-3b-mix-448-t0.0--paligemma-3b-mix-448-t0.0,2_different_image,episode_4,Aborted,1.0
+74,matchit,paligemma-3b-mix-448-t0.0--paligemma-3b-mix-448-t0.0,2_different_image,episode_4,Success,0.0
+75,matchit,paligemma-3b-mix-448-t0.0--paligemma-3b-mix-448-t0.0,2_different_image,episode_4,Lose,0.0
+76,matchit,paligemma-3b-mix-448-t0.0--paligemma-3b-mix-448-t0.0,2_different_image,episode_4,Main Score,
+77,matchit,paligemma-3b-mix-448-t0.0--paligemma-3b-mix-448-t0.0,2_different_image,episode_3,Violated Request Count,1.0
+78,matchit,paligemma-3b-mix-448-t0.0--paligemma-3b-mix-448-t0.0,2_different_image,episode_3,Parsed Request Count,0.0
+79,matchit,paligemma-3b-mix-448-t0.0--paligemma-3b-mix-448-t0.0,2_different_image,episode_3,Request Count,1.0
+80,matchit,paligemma-3b-mix-448-t0.0--paligemma-3b-mix-448-t0.0,2_different_image,episode_3,Aborted,1.0
+81,matchit,paligemma-3b-mix-448-t0.0--paligemma-3b-mix-448-t0.0,2_different_image,episode_3,Success,0.0
+82,matchit,paligemma-3b-mix-448-t0.0--paligemma-3b-mix-448-t0.0,2_different_image,episode_3,Lose,0.0
+83,matchit,paligemma-3b-mix-448-t0.0--paligemma-3b-mix-448-t0.0,2_different_image,episode_3,Main Score,
+84,matchit,paligemma-3b-mix-448-t0.0--paligemma-3b-mix-448-t0.0,2_different_image,episode_8,Violated Request Count,1.0
+85,matchit,paligemma-3b-mix-448-t0.0--paligemma-3b-mix-448-t0.0,2_different_image,episode_8,Parsed Request Count,0.0
+86,matchit,paligemma-3b-mix-448-t0.0--paligemma-3b-mix-448-t0.0,2_different_image,episode_8,Request Count,1.0
+87,matchit,paligemma-3b-mix-448-t0.0--paligemma-3b-mix-448-t0.0,2_different_image,episode_8,Aborted,1.0
+88,matchit,paligemma-3b-mix-448-t0.0--paligemma-3b-mix-448-t0.0,2_different_image,episode_8,Success,0.0
+89,matchit,paligemma-3b-mix-448-t0.0--paligemma-3b-mix-448-t0.0,2_different_image,episode_8,Lose,0.0
+90,matchit,paligemma-3b-mix-448-t0.0--paligemma-3b-mix-448-t0.0,2_different_image,episode_8,Main Score,
+91,matchit,paligemma-3b-mix-448-t0.0--paligemma-3b-mix-448-t0.0,2_different_image,episode_2,Violated Request Count,1.0
+92,matchit,paligemma-3b-mix-448-t0.0--paligemma-3b-mix-448-t0.0,2_different_image,episode_2,Parsed Request Count,0.0
+93,matchit,paligemma-3b-mix-448-t0.0--paligemma-3b-mix-448-t0.0,2_different_image,episode_2,Request Count,1.0
+94,matchit,paligemma-3b-mix-448-t0.0--paligemma-3b-mix-448-t0.0,2_different_image,episode_2,Aborted,1.0
+95,matchit,paligemma-3b-mix-448-t0.0--paligemma-3b-mix-448-t0.0,2_different_image,episode_2,Success,0.0
+96,matchit,paligemma-3b-mix-448-t0.0--paligemma-3b-mix-448-t0.0,2_different_image,episode_2,Lose,0.0
+97,matchit,paligemma-3b-mix-448-t0.0--paligemma-3b-mix-448-t0.0,2_different_image,episode_2,Main Score,
+98,matchit,paligemma-3b-mix-448-t0.0--paligemma-3b-mix-448-t0.0,2_different_image,episode_5,Violated Request Count,1.0
+99,matchit,paligemma-3b-mix-448-t0.0--paligemma-3b-mix-448-t0.0,2_different_image,episode_5,Parsed Request Count,0.0
+100,matchit,paligemma-3b-mix-448-t0.0--paligemma-3b-mix-448-t0.0,2_different_image,episode_5,Request Count,1.0
+101,matchit,paligemma-3b-mix-448-t0.0--paligemma-3b-mix-448-t0.0,2_different_image,episode_5,Aborted,1.0
+102,matchit,paligemma-3b-mix-448-t0.0--paligemma-3b-mix-448-t0.0,2_different_image,episode_5,Success,0.0
+103,matchit,paligemma-3b-mix-448-t0.0--paligemma-3b-mix-448-t0.0,2_different_image,episode_5,Lose,0.0
+104,matchit,paligemma-3b-mix-448-t0.0--paligemma-3b-mix-448-t0.0,2_different_image,episode_5,Main Score,
+105,matchit,paligemma-3b-mix-448-t0.0--paligemma-3b-mix-448-t0.0,2_different_image,episode_9,Violated Request Count,1.0
+106,matchit,paligemma-3b-mix-448-t0.0--paligemma-3b-mix-448-t0.0,2_different_image,episode_9,Parsed Request Count,0.0
+107,matchit,paligemma-3b-mix-448-t0.0--paligemma-3b-mix-448-t0.0,2_different_image,episode_9,Request Count,1.0
+108,matchit,paligemma-3b-mix-448-t0.0--paligemma-3b-mix-448-t0.0,2_different_image,episode_9,Aborted,1.0
+109,matchit,paligemma-3b-mix-448-t0.0--paligemma-3b-mix-448-t0.0,2_different_image,episode_9,Success,0.0
+110,matchit,paligemma-3b-mix-448-t0.0--paligemma-3b-mix-448-t0.0,2_different_image,episode_9,Lose,0.0
+111,matchit,paligemma-3b-mix-448-t0.0--paligemma-3b-mix-448-t0.0,2_different_image,episode_9,Main Score,
+112,matchit,paligemma-3b-mix-448-t0.0--paligemma-3b-mix-448-t0.0,2_different_image,episode_7,Violated Request Count,1.0
+113,matchit,paligemma-3b-mix-448-t0.0--paligemma-3b-mix-448-t0.0,2_different_image,episode_7,Parsed Request Count,0.0
+114,matchit,paligemma-3b-mix-448-t0.0--paligemma-3b-mix-448-t0.0,2_different_image,episode_7,Request Count,1.0
+115,matchit,paligemma-3b-mix-448-t0.0--paligemma-3b-mix-448-t0.0,2_different_image,episode_7,Aborted,1.0
+116,matchit,paligemma-3b-mix-448-t0.0--paligemma-3b-mix-448-t0.0,2_different_image,episode_7,Success,0.0
+117,matchit,paligemma-3b-mix-448-t0.0--paligemma-3b-mix-448-t0.0,2_different_image,episode_7,Lose,0.0
+118,matchit,paligemma-3b-mix-448-t0.0--paligemma-3b-mix-448-t0.0,2_different_image,episode_7,Main Score,
+119,matchit,paligemma-3b-mix-448-t0.0--paligemma-3b-mix-448-t0.0,2_different_image,episode_1,Violated Request Count,1.0
+120,matchit,paligemma-3b-mix-448-t0.0--paligemma-3b-mix-448-t0.0,2_different_image,episode_1,Parsed Request Count,0.0
+121,matchit,paligemma-3b-mix-448-t0.0--paligemma-3b-mix-448-t0.0,2_different_image,episode_1,Request Count,1.0
+122,matchit,paligemma-3b-mix-448-t0.0--paligemma-3b-mix-448-t0.0,2_different_image,episode_1,Aborted,1.0
+123,matchit,paligemma-3b-mix-448-t0.0--paligemma-3b-mix-448-t0.0,2_different_image,episode_1,Success,0.0
+124,matchit,paligemma-3b-mix-448-t0.0--paligemma-3b-mix-448-t0.0,2_different_image,episode_1,Lose,0.0
+125,matchit,paligemma-3b-mix-448-t0.0--paligemma-3b-mix-448-t0.0,2_different_image,episode_1,Main Score,
+126,matchit,paligemma-3b-mix-448-t0.0--paligemma-3b-mix-448-t0.0,2_different_image,episode_6,Violated Request Count,1.0
+127,matchit,paligemma-3b-mix-448-t0.0--paligemma-3b-mix-448-t0.0,2_different_image,episode_6,Parsed Request Count,0.0
+128,matchit,paligemma-3b-mix-448-t0.0--paligemma-3b-mix-448-t0.0,2_different_image,episode_6,Request Count,1.0
+129,matchit,paligemma-3b-mix-448-t0.0--paligemma-3b-mix-448-t0.0,2_different_image,episode_6,Aborted,1.0
+130,matchit,paligemma-3b-mix-448-t0.0--paligemma-3b-mix-448-t0.0,2_different_image,episode_6,Success,0.0
+131,matchit,paligemma-3b-mix-448-t0.0--paligemma-3b-mix-448-t0.0,2_different_image,episode_6,Lose,0.0
+132,matchit,paligemma-3b-mix-448-t0.0--paligemma-3b-mix-448-t0.0,2_different_image,episode_6,Main Score,
+133,matchit,paligemma-3b-mix-448-t0.0--paligemma-3b-mix-448-t0.0,2_different_image,episode_0,Violated Request Count,1.0
+134,matchit,paligemma-3b-mix-448-t0.0--paligemma-3b-mix-448-t0.0,2_different_image,episode_0,Parsed Request Count,0.0
+135,matchit,paligemma-3b-mix-448-t0.0--paligemma-3b-mix-448-t0.0,2_different_image,episode_0,Request Count,1.0
+136,matchit,paligemma-3b-mix-448-t0.0--paligemma-3b-mix-448-t0.0,2_different_image,episode_0,Aborted,1.0
+137,matchit,paligemma-3b-mix-448-t0.0--paligemma-3b-mix-448-t0.0,2_different_image,episode_0,Success,0.0
+138,matchit,paligemma-3b-mix-448-t0.0--paligemma-3b-mix-448-t0.0,2_different_image,episode_0,Lose,0.0
+139,matchit,paligemma-3b-mix-448-t0.0--paligemma-3b-mix-448-t0.0,2_different_image,episode_0,Main Score,
+140,matchit,paligemma-3b-mix-448-t0.0--paligemma-3b-mix-448-t0.0,0_same_image,episode_4,Violated Request Count,1.0
+141,matchit,paligemma-3b-mix-448-t0.0--paligemma-3b-mix-448-t0.0,0_same_image,episode_4,Parsed Request Count,0.0
+142,matchit,paligemma-3b-mix-448-t0.0--paligemma-3b-mix-448-t0.0,0_same_image,episode_4,Request Count,1.0
+143,matchit,paligemma-3b-mix-448-t0.0--paligemma-3b-mix-448-t0.0,0_same_image,episode_4,Aborted,1.0
+144,matchit,paligemma-3b-mix-448-t0.0--paligemma-3b-mix-448-t0.0,0_same_image,episode_4,Success,0.0
+145,matchit,paligemma-3b-mix-448-t0.0--paligemma-3b-mix-448-t0.0,0_same_image,episode_4,Lose,0.0
+146,matchit,paligemma-3b-mix-448-t0.0--paligemma-3b-mix-448-t0.0,0_same_image,episode_4,Main Score,
+147,matchit,paligemma-3b-mix-448-t0.0--paligemma-3b-mix-448-t0.0,0_same_image,episode_3,Violated Request Count,1.0
+148,matchit,paligemma-3b-mix-448-t0.0--paligemma-3b-mix-448-t0.0,0_same_image,episode_3,Parsed Request Count,0.0
+149,matchit,paligemma-3b-mix-448-t0.0--paligemma-3b-mix-448-t0.0,0_same_image,episode_3,Request Count,1.0
+150,matchit,paligemma-3b-mix-448-t0.0--paligemma-3b-mix-448-t0.0,0_same_image,episode_3,Aborted,1.0
+151,matchit,paligemma-3b-mix-448-t0.0--paligemma-3b-mix-448-t0.0,0_same_image,episode_3,Success,0.0
+152,matchit,paligemma-3b-mix-448-t0.0--paligemma-3b-mix-448-t0.0,0_same_image,episode_3,Lose,0.0
+153,matchit,paligemma-3b-mix-448-t0.0--paligemma-3b-mix-448-t0.0,0_same_image,episode_3,Main Score,
+154,matchit,paligemma-3b-mix-448-t0.0--paligemma-3b-mix-448-t0.0,0_same_image,episode_8,Violated Request Count,1.0
+155,matchit,paligemma-3b-mix-448-t0.0--paligemma-3b-mix-448-t0.0,0_same_image,episode_8,Parsed Request Count,0.0
+156,matchit,paligemma-3b-mix-448-t0.0--paligemma-3b-mix-448-t0.0,0_same_image,episode_8,Request Count,1.0
+157,matchit,paligemma-3b-mix-448-t0.0--paligemma-3b-mix-448-t0.0,0_same_image,episode_8,Aborted,1.0
+158,matchit,paligemma-3b-mix-448-t0.0--paligemma-3b-mix-448-t0.0,0_same_image,episode_8,Success,0.0
+159,matchit,paligemma-3b-mix-448-t0.0--paligemma-3b-mix-448-t0.0,0_same_image,episode_8,Lose,0.0
+160,matchit,paligemma-3b-mix-448-t0.0--paligemma-3b-mix-448-t0.0,0_same_image,episode_8,Main Score,
+161,matchit,paligemma-3b-mix-448-t0.0--paligemma-3b-mix-448-t0.0,0_same_image,episode_2,Violated Request Count,1.0
+162,matchit,paligemma-3b-mix-448-t0.0--paligemma-3b-mix-448-t0.0,0_same_image,episode_2,Parsed Request Count,0.0
+163,matchit,paligemma-3b-mix-448-t0.0--paligemma-3b-mix-448-t0.0,0_same_image,episode_2,Request Count,1.0
+164,matchit,paligemma-3b-mix-448-t0.0--paligemma-3b-mix-448-t0.0,0_same_image,episode_2,Aborted,1.0
+165,matchit,paligemma-3b-mix-448-t0.0--paligemma-3b-mix-448-t0.0,0_same_image,episode_2,Success,0.0
+166,matchit,paligemma-3b-mix-448-t0.0--paligemma-3b-mix-448-t0.0,0_same_image,episode_2,Lose,0.0
+167,matchit,paligemma-3b-mix-448-t0.0--paligemma-3b-mix-448-t0.0,0_same_image,episode_2,Main Score,
+168,matchit,paligemma-3b-mix-448-t0.0--paligemma-3b-mix-448-t0.0,0_same_image,episode_5,Violated Request Count,1.0
+169,matchit,paligemma-3b-mix-448-t0.0--paligemma-3b-mix-448-t0.0,0_same_image,episode_5,Parsed Request Count,0.0
+170,matchit,paligemma-3b-mix-448-t0.0--paligemma-3b-mix-448-t0.0,0_same_image,episode_5,Request Count,1.0
+171,matchit,paligemma-3b-mix-448-t0.0--paligemma-3b-mix-448-t0.0,0_same_image,episode_5,Aborted,1.0
+172,matchit,paligemma-3b-mix-448-t0.0--paligemma-3b-mix-448-t0.0,0_same_image,episode_5,Success,0.0
+173,matchit,paligemma-3b-mix-448-t0.0--paligemma-3b-mix-448-t0.0,0_same_image,episode_5,Lose,0.0
+174,matchit,paligemma-3b-mix-448-t0.0--paligemma-3b-mix-448-t0.0,0_same_image,episode_5,Main Score,
+175,matchit,paligemma-3b-mix-448-t0.0--paligemma-3b-mix-448-t0.0,0_same_image,episode_9,Violated Request Count,1.0
+176,matchit,paligemma-3b-mix-448-t0.0--paligemma-3b-mix-448-t0.0,0_same_image,episode_9,Parsed Request Count,0.0
+177,matchit,paligemma-3b-mix-448-t0.0--paligemma-3b-mix-448-t0.0,0_same_image,episode_9,Request Count,1.0
+178,matchit,paligemma-3b-mix-448-t0.0--paligemma-3b-mix-448-t0.0,0_same_image,episode_9,Aborted,1.0
+179,matchit,paligemma-3b-mix-448-t0.0--paligemma-3b-mix-448-t0.0,0_same_image,episode_9,Success,0.0
+180,matchit,paligemma-3b-mix-448-t0.0--paligemma-3b-mix-448-t0.0,0_same_image,episode_9,Lose,0.0
+181,matchit,paligemma-3b-mix-448-t0.0--paligemma-3b-mix-448-t0.0,0_same_image,episode_9,Main Score,
+182,matchit,paligemma-3b-mix-448-t0.0--paligemma-3b-mix-448-t0.0,0_same_image,episode_7,Violated Request Count,1.0
+183,matchit,paligemma-3b-mix-448-t0.0--paligemma-3b-mix-448-t0.0,0_same_image,episode_7,Parsed Request Count,0.0
+184,matchit,paligemma-3b-mix-448-t0.0--paligemma-3b-mix-448-t0.0,0_same_image,episode_7,Request Count,1.0
+185,matchit,paligemma-3b-mix-448-t0.0--paligemma-3b-mix-448-t0.0,0_same_image,episode_7,Aborted,1.0
+186,matchit,paligemma-3b-mix-448-t0.0--paligemma-3b-mix-448-t0.0,0_same_image,episode_7,Success,0.0
+187,matchit,paligemma-3b-mix-448-t0.0--paligemma-3b-mix-448-t0.0,0_same_image,episode_7,Lose,0.0
+188,matchit,paligemma-3b-mix-448-t0.0--paligemma-3b-mix-448-t0.0,0_same_image,episode_7,Main Score,
+189,matchit,paligemma-3b-mix-448-t0.0--paligemma-3b-mix-448-t0.0,0_same_image,episode_1,Violated Request Count,1.0
+190,matchit,paligemma-3b-mix-448-t0.0--paligemma-3b-mix-448-t0.0,0_same_image,episode_1,Parsed Request Count,0.0
+191,matchit,paligemma-3b-mix-448-t0.0--paligemma-3b-mix-448-t0.0,0_same_image,episode_1,Request Count,1.0
+192,matchit,paligemma-3b-mix-448-t0.0--paligemma-3b-mix-448-t0.0,0_same_image,episode_1,Aborted,1.0
+193,matchit,paligemma-3b-mix-448-t0.0--paligemma-3b-mix-448-t0.0,0_same_image,episode_1,Success,0.0
+194,matchit,paligemma-3b-mix-448-t0.0--paligemma-3b-mix-448-t0.0,0_same_image,episode_1,Lose,0.0
+195,matchit,paligemma-3b-mix-448-t0.0--paligemma-3b-mix-448-t0.0,0_same_image,episode_1,Main Score,
+196,matchit,paligemma-3b-mix-448-t0.0--paligemma-3b-mix-448-t0.0,0_same_image,episode_6,Violated Request Count,1.0
+197,matchit,paligemma-3b-mix-448-t0.0--paligemma-3b-mix-448-t0.0,0_same_image,episode_6,Parsed Request Count,0.0
+198,matchit,paligemma-3b-mix-448-t0.0--paligemma-3b-mix-448-t0.0,0_same_image,episode_6,Request Count,1.0
+199,matchit,paligemma-3b-mix-448-t0.0--paligemma-3b-mix-448-t0.0,0_same_image,episode_6,Aborted,1.0
+200,matchit,paligemma-3b-mix-448-t0.0--paligemma-3b-mix-448-t0.0,0_same_image,episode_6,Success,0.0
+201,matchit,paligemma-3b-mix-448-t0.0--paligemma-3b-mix-448-t0.0,0_same_image,episode_6,Lose,0.0
+202,matchit,paligemma-3b-mix-448-t0.0--paligemma-3b-mix-448-t0.0,0_same_image,episode_6,Main Score,
+203,matchit,paligemma-3b-mix-448-t0.0--paligemma-3b-mix-448-t0.0,0_same_image,episode_0,Violated Request Count,1.0
+204,matchit,paligemma-3b-mix-448-t0.0--paligemma-3b-mix-448-t0.0,0_same_image,episode_0,Parsed Request Count,0.0
+205,matchit,paligemma-3b-mix-448-t0.0--paligemma-3b-mix-448-t0.0,0_same_image,episode_0,Request Count,1.0
+206,matchit,paligemma-3b-mix-448-t0.0--paligemma-3b-mix-448-t0.0,0_same_image,episode_0,Aborted,1.0
+207,matchit,paligemma-3b-mix-448-t0.0--paligemma-3b-mix-448-t0.0,0_same_image,episode_0,Success,0.0
+208,matchit,paligemma-3b-mix-448-t0.0--paligemma-3b-mix-448-t0.0,0_same_image,episode_0,Lose,0.0
+209,matchit,paligemma-3b-mix-448-t0.0--paligemma-3b-mix-448-t0.0,0_same_image,episode_0,Main Score,
+210,matchit,paligemma-3b-mix-448-t0.0--paligemma-3b-mix-448-t0.0,1_similar_image,episode_4,Played,0.0
+211,matchit,paligemma-3b-mix-448-t0.0--paligemma-3b-mix-448-t0.0,1_similar_image,episode_3,Played,0.0
+212,matchit,paligemma-3b-mix-448-t0.0--paligemma-3b-mix-448-t0.0,1_similar_image,episode_8,Played,0.0
+213,matchit,paligemma-3b-mix-448-t0.0--paligemma-3b-mix-448-t0.0,1_similar_image,episode_2,Played,0.0
+214,matchit,paligemma-3b-mix-448-t0.0--paligemma-3b-mix-448-t0.0,1_similar_image,episode_5,Played,0.0
+215,matchit,paligemma-3b-mix-448-t0.0--paligemma-3b-mix-448-t0.0,1_similar_image,episode_9,Played,0.0
+216,matchit,paligemma-3b-mix-448-t0.0--paligemma-3b-mix-448-t0.0,1_similar_image,episode_7,Played,0.0
+217,matchit,paligemma-3b-mix-448-t0.0--paligemma-3b-mix-448-t0.0,1_similar_image,episode_1,Played,0.0
+218,matchit,paligemma-3b-mix-448-t0.0--paligemma-3b-mix-448-t0.0,1_similar_image,episode_6,Played,0.0
+219,matchit,paligemma-3b-mix-448-t0.0--paligemma-3b-mix-448-t0.0,1_similar_image,episode_0,Played,0.0
+220,matchit,paligemma-3b-mix-448-t0.0--paligemma-3b-mix-448-t0.0,2_different_image,episode_4,Played,0.0
+221,matchit,paligemma-3b-mix-448-t0.0--paligemma-3b-mix-448-t0.0,2_different_image,episode_3,Played,0.0
+222,matchit,paligemma-3b-mix-448-t0.0--paligemma-3b-mix-448-t0.0,2_different_image,episode_8,Played,0.0
+223,matchit,paligemma-3b-mix-448-t0.0--paligemma-3b-mix-448-t0.0,2_different_image,episode_2,Played,0.0
+224,matchit,paligemma-3b-mix-448-t0.0--paligemma-3b-mix-448-t0.0,2_different_image,episode_5,Played,0.0
+225,matchit,paligemma-3b-mix-448-t0.0--paligemma-3b-mix-448-t0.0,2_different_image,episode_9,Played,0.0
+226,matchit,paligemma-3b-mix-448-t0.0--paligemma-3b-mix-448-t0.0,2_different_image,episode_7,Played,0.0
+227,matchit,paligemma-3b-mix-448-t0.0--paligemma-3b-mix-448-t0.0,2_different_image,episode_1,Played,0.0
+228,matchit,paligemma-3b-mix-448-t0.0--paligemma-3b-mix-448-t0.0,2_different_image,episode_6,Played,0.0
+229,matchit,paligemma-3b-mix-448-t0.0--paligemma-3b-mix-448-t0.0,2_different_image,episode_0,Played,0.0
+230,matchit,paligemma-3b-mix-448-t0.0--paligemma-3b-mix-448-t0.0,0_same_image,episode_4,Played,0.0
+231,matchit,paligemma-3b-mix-448-t0.0--paligemma-3b-mix-448-t0.0,0_same_image,episode_3,Played,0.0
+232,matchit,paligemma-3b-mix-448-t0.0--paligemma-3b-mix-448-t0.0,0_same_image,episode_8,Played,0.0
+233,matchit,paligemma-3b-mix-448-t0.0--paligemma-3b-mix-448-t0.0,0_same_image,episode_2,Played,0.0
+234,matchit,paligemma-3b-mix-448-t0.0--paligemma-3b-mix-448-t0.0,0_same_image,episode_5,Played,0.0
+235,matchit,paligemma-3b-mix-448-t0.0--paligemma-3b-mix-448-t0.0,0_same_image,episode_9,Played,0.0
+236,matchit,paligemma-3b-mix-448-t0.0--paligemma-3b-mix-448-t0.0,0_same_image,episode_7,Played,0.0
+237,matchit,paligemma-3b-mix-448-t0.0--paligemma-3b-mix-448-t0.0,0_same_image,episode_1,Played,0.0
+238,matchit,paligemma-3b-mix-448-t0.0--paligemma-3b-mix-448-t0.0,0_same_image,episode_6,Played,0.0
+239,matchit,paligemma-3b-mix-448-t0.0--paligemma-3b-mix-448-t0.0,0_same_image,episode_0,Played,0.0
